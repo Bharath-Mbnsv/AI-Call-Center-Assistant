@@ -64,7 +64,7 @@ BACKEND_ROOT = PROJECT_ROOT / "backend"
 CONFIG_PATH = PROJECT_ROOT / "config" / "mcp.yaml"
 SAMPLE_DIR = BACKEND_ROOT / "data" / "sample_transcripts"
 DEFAULT_CONFIG = {
-    "model": {"primary": "gpt-4o-mini", "fallback": "gpt-3.5-turbo", "temperature": 0.2},
+    "model": {"primary": "gpt-4o", "fallback": "gpt-4o-mini", "temperature": 0.2},
     "transcription": {
         "model": "whisper-1",
         "supported_formats": [".mp3", ".wav", ".m4a", ".webm", ".ogg", ".mp4"],
