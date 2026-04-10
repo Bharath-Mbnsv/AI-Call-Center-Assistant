@@ -1,0 +1,25 @@
+Agent: Security team, this is Lisa speaking. How can I help you?
+
+Customer: Hi, I think my account has been hacked. I got an email saying my password was changed and I didn't do it.
+
+Agent: That's very concerning and I want to help you secure your account right away. First, can you verify your identity? I'll need your full name and the email on the account.
+
+Customer: My name is Emily Chen, email is emily.chen@gmail.com.
+
+Agent: Thank you Emily. I can see your account. I'm seeing a login from an unrecognized device in Russia at 2:30 AM this morning. I'm going to lock your account right now to prevent any further unauthorized access.
+
+Customer: Oh my god. Did they access anything?
+
+Agent: The login occurred but I can see no transactions or data changes were made before we locked it. Your payment information appears secure. I'm now sending a password reset link to your backup email. Do you have access to emily.chen.backup@gmail.com?
+
+Customer: Yes, that's my account.
+
+Agent: Good. Please check that now and reset your password. Use something strong — at least 12 characters with symbols. I also strongly recommend enabling two-factor authentication, which I can walk you through.
+
+Customer: Yes please, let's do that.
+
+Agent: Great. I'll guide you through the 2FA setup right now. This will prevent this from happening again even if someone gets your password.
+
+Customer: Thank you so much. I was really panicking.
+
+Agent: Completely understandable. You're safe now. Let's get this fully secured.

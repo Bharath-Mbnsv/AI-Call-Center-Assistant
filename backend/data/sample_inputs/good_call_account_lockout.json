@@ -1,0 +1,46 @@
+[
+  {
+    "speaker": "Agent",
+    "text": "Good afternoon, this is Priya from CloudVault account services. How may I help you today?"
+  },
+  {
+    "speaker": "Customer",
+    "text": "Hi Priya. I've been locked out of my account since this morning. I tried resetting my password three times but the email never arrives."
+  },
+  {
+    "speaker": "Agent",
+    "text": "Oh no, I'm really sorry you've been dealing with that. Being locked out is incredibly stressful, especially first thing in the morning. Let me get this sorted for you right away. Can I please verify your account email?"
+  },
+  {
+    "speaker": "Customer",
+    "text": "Yes, it's maria.chen@workmail.com."
+  },
+  {
+    "speaker": "Agent",
+    "text": "Thank you Maria. I can see your account, and I can also see why the reset emails aren't reaching you. Your domain has flagged our automated emails as spam, which is a known issue we're tracking. I'm going to do two things right now. First, I'll manually trigger a password reset link to a backup channel, and second, I'll add a note to your account so this doesn't happen again."
+  },
+  {
+    "speaker": "Customer",
+    "text": "That would be amazing. Where will the reset link come through?"
+  },
+  {
+    "speaker": "Agent",
+    "text": "I can send it as a secure SMS to the phone number on file ending in 4-7-2-2. Does that work for you?"
+  },
+  {
+    "speaker": "Customer",
+    "text": "Yes, that's my phone. Please send it."
+  },
+  {
+    "speaker": "Agent",
+    "text": "Sent. You should receive it within thirty seconds. The link is valid for fifteen minutes. Once you reset, you'll have full access again. Is there anything else I can help you with?"
+  },
+  {
+    "speaker": "Customer",
+    "text": "I just got the SMS. Wow, that was fast. Thank you so much Priya, you've been incredibly helpful."
+  },
+  {
+    "speaker": "Agent",
+    "text": "You're very welcome Maria. Have a wonderful rest of your day."
+  }
+]

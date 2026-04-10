@@ -1,0 +1,29 @@
+Agent: Hello, thank you for calling RetailPlus. This is David, how may I assist you?
+
+Customer: Hi David. I bought a laptop two weeks ago and the screen has been flickering since day one. I'd like a full refund.
+
+Agent: I'm really sorry to hear about the screen issue — that's definitely not the experience we want you to have. Let me look up your order. Can I get your order number?
+
+Customer: It's RP-2024-98765.
+
+Agent: Thank you. I can see the order. A 15-inch LaptopPro, purchased March 8th. Since this is a hardware defect within our 30-day return window, you're absolutely eligible for a full refund. 
+
+Customer: Great. How does the return work?
+
+Agent: I'll email you a prepaid shipping label within the next 15 minutes. Once we receive the laptop, your refund of $1,249 will be processed within 2 business days back to your original payment method.
+
+Customer: What if the return takes a week to arrive?
+
+Agent: The 2-day processing starts from when we receive it. Typically total turnaround is about 7-10 days from when you ship. Would you like me to also check if we have a replacement unit in stock in case you'd prefer an exchange?
+
+Customer: Actually, yes — is there a newer model?
+
+Agent: Yes, the LaptopPro 2 launched last week with an improved display. It's $50 more. I can apply a 10% customer loyalty discount which would make it only $24 more than your original purchase.
+
+Customer: Oh that sounds great actually. Let's do the exchange with the upgrade.
+
+Agent: Perfect. I'll set that up now. You'll get the shipping label and new order confirmation in your email. Is there anything else?
+
+Customer: No, that's perfect. Thank you David!
+
+Agent: My pleasure! Have a wonderful day.

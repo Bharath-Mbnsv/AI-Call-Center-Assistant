@@ -1,0 +1,29 @@
+Agent: Support line, what do you want?
+
+Customer: Hi, I wanted to ask about upgrading my plan. I've been a customer for 5 years.
+
+Agent: Yeah what plan do you have.
+
+Customer: I'm on the basic plan, $15 a month. I want to know what I get if I upgrade to premium.
+
+Agent: It's on the website.
+
+Customer: I looked but it wasn't clear. Can you just explain it to me?
+
+Agent: Fine. Premium is $45. You get more storage and faster speeds.
+
+Customer: How much more storage?
+
+Agent: I don't know exactly. You'd have to check the website.
+
+Customer: But I just said I checked and it wasn't clear. This isn't helpful at all.
+
+Agent: Look, I'm just reading what's in front of me. Do you want to upgrade or not?
+
+Customer: Honestly, with this kind of service I'm thinking of cancelling altogether. You're being very rude.
+
+Agent: I'm not being rude. Do you have any other questions?
+
+Customer: No. I'm going to contact your manager. This is awful customer service.
+
+Agent: Okay.

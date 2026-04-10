@@ -1,0 +1,25 @@
+Agent: TechCorp support, this is Mike. What can I help you with today?
+
+Customer: My internet has been down for two days. This is unacceptable. I work from home and I've been completely unable to do my job.
+
+Agent: I understand how serious that is — especially when you work from home. Let me look into this immediately. What's your account number or the phone number on the account?
+
+Customer: It's 555-123-4567.
+
+Agent: Thank you. I can see there's an outage in your area that started on Tuesday. Our engineering team has been working on it and I can see it was marked as resolved about an hour ago. Can you try restarting your modem by unplugging it for 30 seconds?
+
+Customer: Hold on. Okay, unplugging now... okay it's back on. The lights are back to normal.
+
+Agent: Great! Can you test your connection?
+
+Customer: Yes! It's working. Finally. But I've lost two days of work. Can I get some kind of compensation?
+
+Agent: Absolutely. Given the outage duration, I'm going to apply a 2-day service credit to your account which will show on your next bill. That's $6.60. I'm also escalating a note so our billing team can review if additional compensation is warranted.
+
+Customer: Alright, I guess that's fair for now. Thank you.
+
+Agent: Of course. I'm really sorry for the disruption. Is there anything else I can help with today?
+
+Customer: No, that's it.
+
+Agent: Thanks for your patience, and again I apologize for the inconvenience. Have a good day.

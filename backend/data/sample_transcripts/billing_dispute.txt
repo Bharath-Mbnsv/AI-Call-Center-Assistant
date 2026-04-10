@@ -1,0 +1,21 @@
+Agent: Thank you for calling TechCorp Support. My name is Sarah. How can I help you today?
+
+Customer: Hi Sarah. I'm really upset. I was charged twice for my subscription this month and I need this fixed immediately.
+
+Agent: I completely understand how frustrating that must be. I'm so sorry this happened. Let me pull up your account right away. Can I get your email address?
+
+Customer: Sure, it's john.smith@email.com
+
+Agent: Thank you John. I can see your account here. You're absolutely right — I can see two charges of $29.99 on March 15th and March 16th. That should not have happened, and I sincerely apologize for this error.
+
+Customer: So what are you going to do about it?
+
+Agent: I'm going to issue a full refund for the duplicate charge right now. The $29.99 will be credited back to your card within 3-5 business days. I'm also adding a $10 credit to your account for the inconvenience.
+
+Customer: Okay, that sounds fair. How will I know the refund went through?
+
+Agent: You'll receive a confirmation email at john.smith@email.com within the next 30 minutes with the refund details and reference number. Is there anything else I can help you with today?
+
+Customer: No, that's all. Thank you Sarah, you've been very helpful.
+
+Agent: You're very welcome John. Again, I apologize for the billing error. Have a wonderful day!

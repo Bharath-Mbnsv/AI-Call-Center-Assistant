@@ -1,0 +1,27 @@
+model:
+  primary: "gpt-4o"
+  fallback: "gpt-4o-mini"
+  temperature: 0.2
+
+transcription:
+  model: "whisper-1"
+  supported_formats: [".mp3", ".wav", ".m4a", ".webm", ".ogg", ".mp4"]
+  max_file_size_mb: 25
+
+pipeline:
+  max_transcript_chars: 50000
+  fallback_on_error: true
+  log_errors: true
+
+qa_rubric:
+  dimensions:
+    - empathy
+    - professionalism
+    - resolution
+    - communication_clarity
+  scale: 10
+  grade_thresholds:
+    excellent: 8
+    good: 6
+    needs_improvement: 4
+    poor: 0
